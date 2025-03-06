@@ -1,6 +1,6 @@
 <h1>Active Directory - DFS Namespaces</h1>
 <h2>Description</h2>
-In this lab we will be setting up DFS Namespaces on our windows server. DFS allows us to easily manage shared folders located on different servers and devices. It gives the user a single path to view the folders and files located on different servers.
+In this lab, we will be setting up DFS Namespaces on our Windows Server. DFS allows us to manage shared folders across multiple servers and devices easily. It gives the user a single path to view the folders and files located on different servers.
 
 <h2>Installing DFS Namespaces</h2>
 
